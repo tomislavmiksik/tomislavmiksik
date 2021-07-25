@@ -1,4 +1,4 @@
-### Hi there 👋
+### Last 30 days
 
 <!--
 **tomislavmiksik/tomislavmiksik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img><figure><embed src="https://wakatime.com/share/@b3e2963b-6fcc-4f1c-93fd-d709ac4ff0ec/9a2ee097-cc52-4429-b236-bff3edadfaaf.svg"></embed></figure></img>
