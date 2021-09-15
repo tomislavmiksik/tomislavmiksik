@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p><img src="https://wakatime.com/share/@b3e2963b-6fcc-4f1c-93fd-d709ac4ff0ec/57ef102d-3434-4016-b2b2-260a1d09576a.svg"></img></p>
+
+
+
+[![Tomislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomislavmiksik)](https://github.com/anuraghazra/github-readme-stats)
