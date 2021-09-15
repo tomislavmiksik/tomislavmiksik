@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 
 
-[![Tomislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomislavmiksik)](https://github.com/anuraghazra/github-readme-stats)
+[![Tomislav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomislavmiksik)](https://github.com/anuraghazra/github-readme-stats)
+
