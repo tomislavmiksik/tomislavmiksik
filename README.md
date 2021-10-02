@@ -1,4 +1,4 @@
-### Last 30 days
+### Stats
 
 <!--
 **tomislavmiksik/tomislavmiksik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
