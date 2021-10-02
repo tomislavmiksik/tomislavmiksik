@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Tomislav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tmiksik&hide_border=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Tomislav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tmiksik)](https://github.com/anuraghazra/github-readme-stats)
 
 
