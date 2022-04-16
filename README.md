@@ -1,5 +1,5 @@
 ### Stats
-[![wakatime](https://wakatime.com/badge/user/b3e2963b-6fcc-4f1c-93fd-d709ac4ff0ec.svg)](https://wakatime.com/@b3e2963b-6fcc-4f1c-93fd-d709ac4ff0ec)
+
 <!--
 **tomislavmiksik/tomislavmiksik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
