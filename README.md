@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Tomislav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tmiksik&hide_border=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-https://wakatime.com/badge/user/b3e2963b-6fcc-4f1c-93fd-d709ac4ff0ec.svg
-
 
 
